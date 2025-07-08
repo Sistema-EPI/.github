@@ -4,7 +4,7 @@
 
 ![SafeEPI Logo](https://img.shields.io/badge/SafeEPI-Sistema%20Inteligente-blue?style=for-the-badge&logo=shield&logoColor=white)
 
-**Desenvolvido pela Barcelos Engenharia de Segurança**
+**Desenvolvido por Juliana Gagliano e Minoro Hamada**
 
 *Revolucionando a gestão de Equipamentos de Proteção Individual com tecnologia biométrica e inteligência de dados*
 
